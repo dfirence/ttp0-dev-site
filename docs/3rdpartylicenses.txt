@@ -89,6 +89,11 @@ THE SOFTWARE.
 
 @angular/material/card
 
+<<<<<<< HEAD
+=======
+@angular/material/icon
+
+>>>>>>> d8e13d34d4f7b166c1d6b141b1553c7946a12a94
 @angular/material/menu
 
 @angular/material/toolbar
